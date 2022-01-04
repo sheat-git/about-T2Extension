@@ -1,1 +1,1 @@
-# about-T2Extension
+about T2Extension
